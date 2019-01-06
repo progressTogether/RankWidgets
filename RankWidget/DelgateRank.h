@@ -1,5 +1,6 @@
 #pragma once
-#include "AbstractRank.h"
+
+#include "RealRank.h"
 class DelgateRank :
 	public AbstractRank
 {
